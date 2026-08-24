@@ -4,6 +4,7 @@
 class Aethyme < Formula
   desc "Local-first flight control for concurrent AI coding agents"
   homepage "https://github.com/schiste/Aethyme"
+  version "0.2.0"
   license "Apache-2.0"
 
   on_macos do
