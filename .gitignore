@@ -1,0 +1,16 @@
+# Aethyme broker runtime state. Everything the broker writes at runtime is
+# untracked; the managed block below is maintained by `aethyme broker scaffold`.
+.aethyme/locks/
+
+# aethyme-broker:begin (managed block — do not edit inside)
+.aethyme/broker.db*
+.aethyme/logs/
+.aethyme/reports/
+.aethyme/run/
+.aethyme/worktrees/
+.aethyme/broker-action-required.md
+.aethyme/broker-advisory.md
+.aethyme/generated/experience-status.json
+.aethyme/generated/experience-status.md
+.aethyme/generated/experience-telemetry.jsonl
+# aethyme-broker:end
