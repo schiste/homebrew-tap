@@ -20,3 +20,13 @@ external command that may be added to this repository.
 
 The source release workflow and reviewed formula are maintained in
 [schiste/Aethyme](https://github.com/schiste/Aethyme/tree/main/packaging/homebrew).
+
+## Aexeo
+
+Install the Aexeo CLI from its checksummed release binaries:
+
+```bash
+brew install schiste/tap/aexeo
+```
+
+The formula supports Apple Silicon macOS and Intel x86_64 Linux.
