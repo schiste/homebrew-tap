@@ -8,25 +8,25 @@ class Aethyme < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/schiste/Aethyme/releases/download/v0.8.102/aethyme-v0.8.102-aarch64-apple-darwin.tar.gz"
-      sha256 "6254a7c0a752777d083536018003ed786783a94ac8d475b406e9f142cff17b9d"
+      url "https://github.com/schiste/Aethyme/releases/download/v0.8.103/aethyme-v0.8.103-aarch64-apple-darwin.tar.gz"
+      sha256 "68d33695ede0ca834da1170ac62ef881e41afaf47ec25adbb69af3478ba74dba"
     end
 
     on_intel do
-      url "https://github.com/schiste/Aethyme/releases/download/v0.8.102/aethyme-v0.8.102-x86_64-apple-darwin.tar.gz"
-      sha256 "fd79db3d6d9d081de0b9c7e8316bce80d73e6f5b1ea8d8a3064981b3636a1723"
+      url "https://github.com/schiste/Aethyme/releases/download/v0.8.103/aethyme-v0.8.103-x86_64-apple-darwin.tar.gz"
+      sha256 "224246ad39f1768ccc5496d25de341d1f9ca05fef87a5c11573ef87272e27873"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/schiste/Aethyme/releases/download/v0.8.102/aethyme-v0.8.102-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "642f9c6b6d17dc325611c5e2dfd12118c9754f0832153174af463d1ed87e0cfa"
+      url "https://github.com/schiste/Aethyme/releases/download/v0.8.103/aethyme-v0.8.103-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "dbd31835182f958b45f15500d3cb6c811fd3e9907d8beb4f681413b530b50185"
     end
 
     on_intel do
-      url "https://github.com/schiste/Aethyme/releases/download/v0.8.102/aethyme-v0.8.102-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "6af553179ba6d9ab7ce366ad3764ea9af7319aff38210f7e50150da1a287dfa1"
+      url "https://github.com/schiste/Aethyme/releases/download/v0.8.103/aethyme-v0.8.103-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "35d2728f033a5d7cc8d5ab43766285f3e179d272978509ca7a9a7fd73fb3cd5c"
     end
   end
 
