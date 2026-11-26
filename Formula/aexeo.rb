@@ -3,20 +3,20 @@
 class Aexeo < Formula
   desc "SEO and GEO site auditing CLI"
   homepage "https://github.com/schiste/Aexeo"
-  version "0.0.26"
+  version "0.0.27"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/schiste/Aexeo/releases/download/v0.0.26/aexeo-cli-darwin-arm64"
-      sha256 "5bcd228f5e8fb1f4a533e978af153d1eac52f61bbe184d5a2498f6f8044d1112"
+      url "https://github.com/schiste/Aexeo/releases/download/v0.0.27/aexeo-cli-darwin-arm64"
+      sha256 "20e5564392261347f9ee5dbcb6bf3beee21a7e3a7f7fabfa48a698fc62b4adf2"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/schiste/Aexeo/releases/download/v0.0.26/aexeo-cli-linux-x86_64"
-      sha256 "651789b387551dcc1f3c330932ca3a679460bdbf08da0da70d9d0222d28ed087"
+      url "https://github.com/schiste/Aexeo/releases/download/v0.0.27/aexeo-cli-linux-x86_64"
+      sha256 "c26440350e0852ed841f039d945b8f6905c7b220e188482ece8b87119ddd958d"
     end
   end
 
